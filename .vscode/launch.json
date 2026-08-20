@@ -8,7 +8,7 @@
             "name": "(Game debug without building",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${workspaceFolder}/Genesis_Cpp.exe",
+            "program": "${workspaceFolder}/build/Genesis_Cpp.exe",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",
