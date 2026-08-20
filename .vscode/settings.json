@@ -1,0 +1,10 @@
+{
+    "cmake.generator": "MinGW Makefiles",
+    "cmake.configureSettings": {
+        "PLATFORM": "Desktop"
+    },
+    "cmake.configureArgs": [
+        "-DCMAKE_EXPORT_COMPILE_COMMANDS=ON"
+    ],
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools"
+}
